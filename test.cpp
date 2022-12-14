@@ -6,6 +6,6 @@ int main() {
   ++it;
   cout<<*it<<"\n";
   vec.insert(vec.begin(),6);
-	cout<<*it;
+  cout<<*it;
   return 0;
 }
